@@ -6,3 +6,6 @@ L'autonomie est tès grande (de l'ordre de l'année), la batterie peut être rec
 Les compaosants marquants sont : ATtiny85 - mosfets BS170 - matrice 5X5 leds adressables WS2812B.
 J'ai remplacé la touche sensitive basée sur la résistivité du doigt humain (car trop dépendant de l'humain en question) par un capteur "Force Sensitive Resistor" RP - C18.3-ST beaucoup plus fiable et non dépendant de la personne.
 https://youtu.be/txDCwdJrTIA
+
+*********************************************************************************NOTE TRES IMPORTANTE***********************************************************************************************************
+Pour les fichiers Gerber, vous devez cliquer sur CODE, puis Gerber.
